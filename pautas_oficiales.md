@@ -29,7 +29,7 @@ Por favor, antes de publicar, lea las notas al final de este documento, donde se
 
      Beneficios: (si no hay, especificar "ninguno". "buen ambiente laboral" no es beneficio)
 
-     Tipo de contrato: (plazo fijo debe llevar tiempo, puede ser más de uno. ej: plazo fijo 3 meses, luego indefinido)
+     Tipo de contrato: (plazo fijo debe llevar tiempo, puede ser más de uno. ej: plazo fijo 3 meses, luego indefinido; especificar CLARAMENTE si es a honorarios)
      
      Datos de contacto (nombre, e-mail y/o teléfono): (ej: Pablo Pérez pperez@empresa.cl (+569)11112222)
 
@@ -44,7 +44,7 @@ Por favor, antes de publicar, lea las notas al final de este documento, donde se
      
      Presupuesto: (debe llevar un monto)
      
-     Modalidad: (presencial, remoto, presencial+remoto; en caso de requerir presencial, se debe especificar número de horas a la semana)
+     Modalidad: Remoto (freelance no requiere presencia física; para ofertas presenciales o semi-presenciales, debe llenarse la pauta de ofertas laborales.)
 
      Descripcion del proyecto: (qué debe hacer el proyecto, qué ya hay hecho, qué problema resuelve, etc.)
      
